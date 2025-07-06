@@ -1,5 +1,7 @@
 # MIDI Mapping for Ableton Live 9.6.2
 
+Driver (a.k.a MIDI mapping) for [teensy-midi-controller](https://github.com/venelinpetrov/teensy-midi-controller)
+
 ## Developing (Windows)
 
 1. Go to `\ProgramFiles\Ableton\Live 9 Suite\Resources\MIDI Remote Scripts`
